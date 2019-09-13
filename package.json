@@ -1,0 +1,24 @@
+{
+  "name": "js-racer-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorpts/js-racer-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktorpts/js-racer-starter/issues"
+  },
+  "homepage": "https://github.com/viktorpts/js-racer-starter#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
